@@ -1,1 +1,1 @@
-pm install sass -v 3.7.4
+npm install sass -v 3.7.4
